@@ -10,18 +10,28 @@ There are 3 main files:
 
 ## Commands
 
-### Running JSON Rest API
+### Step 1: Creating a venv and installing dependencies
 
+> pip install virtualenv
+>
+> python -m venv [venv-name]
+>
+> source [venv-name]/bin/activate
+>
 > cd src
 >
-> python server.py
+> pip3 install -r src/requirements.txt 
+
+### Step 2: Running JSON Rest API
+
+> (Inside src/ folder)
+>
+> ***python server.py***
 >
 > Go to http://127.0.0.1:5000/ and make requests with or without section parameter
 
-### Running Flask CLI
+### Step 3: Running Flask CLI
 
-> cd src
+> (Inside src/ folder)
 >
-> python server.py
->
-> flask resume read [section], where section can be All/About/Contact/Education/Experience/Skills/Projects/Languages.
+> ***flask resume read [section]***, where section can be All/About/Contact/Education/Experience/Skills/Projects/Languages.

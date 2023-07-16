@@ -31,7 +31,7 @@ class CVData(Resource):
     @api.response(500, "Internal Server Error")
     @api.doc(
         description="""Returns Resume data all together or you can choose a specific section
-        from the following: About, Contact, Education, Experience, Tech Skills, 
+        from the following: About, Contact, Education, Experience, Skills, 
         Languages, Projects."""
     )
     def get(self, section):
