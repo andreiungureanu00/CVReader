@@ -1,0 +1,78 @@
+
+Full Name
+Andrei Ungureanu
+
+Title
+Full Stack Developer
+
+About Me
+I am a highly motivated Full Stack Developer currently pursuing a Master's degree in ComputerScience and Management in IT. With a passion for tackling complex problems and a commitment to lifelong learning, I thrive on new challenges and am constantly seeking to improve my skills. With experience in both front-end and back-end development, I am adept at collaborating with cross-functional teams to deliver high-quality solutions that meet business needs. I am comfortable working with various programming languages and technologies being always eager to learn more about the latest advancements in the field with an open-minded approach to discover new fields and technologies.
+
+Contact
+Phone: +40 721865209
+Email: andrei.ungureanu989@gmail.com
+Location: Bucharest, Romania
+LinkedIn: https://www.linkedin.com/in/andrei-ungureanu-02b14718b/
+
+Education
+2021 - 2023
+Master’s Degree - Computer Science and IT Management`
+Politehnica University of Bucharest
+
+2017 - 2021
+Bachelor's Degree - Computer Science
+Politehnica University of Bucharest
+
+2014 - 2017
+Baccalaureate Degree - High School
+Mihai Eminescu High School - Moldova
+
+Experience
+2021-2023
+Betsol
+Full Stack Developer Contractor
+Worked on 2 main Full Stack projects owned by Avaya using multiple technologies:  Django, Angular & MongoDB for Full Stack Development, Docker, bash, python. Currently involved into writing scripts, APIs and UI support. I learned Django and acquired a lot of experience with Python and Django, improving the code quality and management and avoiding bugs. I embraced the opportunity to build APIs and a new project from scratch together with our team to ensure the customer satisfaction and also help my teammates with different issues that improved my debugging, problem solving, leadership  and  support skills. My work was also recognized by Betsol Management with several awards, including Spot Award for individual work and Team Excellence Awards.
+
+2021 (5 months)
+AquaSoft
+Full Stack Developer
+I worked as a Full Stack Developer during my Bachelor's Degree years and contributed to improving the portal our team had by improving the UI interface, sorting out lots of  backend and frontend issues that were affecting the performance of the web page. I also had the opportunity to improve my experience with NodeJS, React and Angular and also learn new technologies, like GraphQL or Redux and contribute  to  existing  features  besides new ones.
+
+2020 (4 months)
+EBS Integrator
+Android Intern Developer
+Worked as Android Development Intern for multiple internal projects, where I interacted with several technologies, like: Flutter, Kotlin, Firebase, MySQL and others. I learned how to build scalable android mobile applications, have a clean code and interact with the API Development team to manage Full Stack Apps. I built 3 apps, including E-Store,  Restaurants App and E-wallet - app to handle currency exchange rates using multiple locations.
+
+Tech Skills
+JS/TS
+Java
+Python
+C
+NodeJS
+React
+Angular
+Django
+Linux
+Docker
+Flutter
+Bash
+Redux
+MySQL
+MongoDB
+GraphQL
+PostgreSQL
+WebServers
+
+Languages
+Romanian
+English
+Russian
+
+Some Personal Projects
+SmartScheduler - Project Management Tool (Angular/Django/MongoDB)
+Covid Analyzer - Tool to analyze Covid Symptoms and use prediction ML alghoritms to suggest further actions to user and locate nearby hospitals on integrated map (ReactJS/NodeJS/MySQL)
+E-wallet - Android App with transactions, bank sold and currency convertor using rates of different national banks (Flutter/Django/Firebase)
+Events - Platform for online events (ReactJS/Django/MongoDB)
+Users - Tool to manage users data and activities (ReactJS/Node/MySQL)
+BookStore - Book Store Manager (ReactJS/Node/PostgreSQL)
+Supermarket - Supermarket Simulation (JAVA - design patterns and OOP)
